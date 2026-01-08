@@ -2,11 +2,6 @@
 
 <h3>Data Analytics & Machine Learning | Python • SQL • Computer Vision</h3>
 
-<p>
-🎓 Computer Science Undergraduate (CGPA: 3.79/4.00) <br>
-📍 Kedah, Malaysia · 📆 Available: March–September 2026 (Mandatory Internship)
-</p>
-
 <hr>
 
 <h3>👩‍💻 About Me</h3>
