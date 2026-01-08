@@ -17,7 +17,7 @@ with a strong emphasis on clean pipelines, explainability, and real-world impact
 
 <hr>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/su-waddy-tun-310262218) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SuWaddy211) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suwaddy01tun@gmail.com)
 
 # 💻 Tech Stack:
